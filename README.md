@@ -1,7 +1,7 @@
 # This is a NodeJS library to interact with Cloud Cubic Content-Delivery within you applications.
 
 
-First thing you need to do before using this app you need to make sure you fill out the data.js file 
+First thing you need to do before using this library you need to make sure you fill out the data.js file 
 with your TOKEN and APP_ID that you get from [Cloud Cubic Website](https://cubic.simsknightcloudservices.co.za).
 
 If you want to run test you can also add values to the objects inside data.js with your respective values thats corresponds with the content-delivery cubic you wish to access.
